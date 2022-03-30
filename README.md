@@ -2,3 +2,5 @@
 
 
 To run the app.py tap: **streamlit run app.py**
+
+![app](streamlit-app.png)
